@@ -1,0 +1,1 @@
+[{"nome":"Sergio Costa","email":"sergio@email.com","cpf":"12345678910","endereco":{"cep":"52050-100","rua":"Neto de Pedro","bairro":"Tamarineira","cidade":"Recife"}},{"nome":"Guido Cerqueira","email":"sergio@email.com","cpf":"99999999999","endereco":{"cep":"52050-100","rua":"Neto de Pedro","bairro":"Tamarineira","cidade":"Recife"},"profissao":"professor backend"}]
